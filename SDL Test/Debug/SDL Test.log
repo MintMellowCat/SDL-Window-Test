@@ -1,7 +1,0 @@
-﻿  SDL Test.cpp
-C:\Users\BEL0011\source\repos\SDL Test\SDL Test\SDL Test.cpp(58,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\BEL0011\source\repos\SDL Test\SDL Test\SDL Test.cpp(72,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\BEL0011\source\repos\SDL Test\SDL Test\SDL Test.cpp(75,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\BEL0011\source\repos\SDL Test\SDL Test\SDL Test.cpp(92,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-C:\Users\BEL0011\source\repos\SDL Test\SDL Test\SDL Test.cpp(93,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  SDL Test.vcxproj -> C:\Users\BEL0011\source\repos\SDL Test\Debug\SDL Test.exe
